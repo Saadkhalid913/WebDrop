@@ -1,0 +1,26 @@
+{
+  "name": "test-prj",
+  "version": "1.0.0",
+  "description": "Using Express to serve files across the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saadkhalid913/WebDrop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saadkhalid913/WebDrop/issues"
+  },
+  "homepage": "https://github.com/Saadkhalid913/WebDrop#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.13"
+  }
+}
